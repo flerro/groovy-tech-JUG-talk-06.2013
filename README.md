@@ -1,4 +1,4 @@
-groovy-tech-JUG-talk-06.2013
-============================
+groovy techologies
+===================
 
-Groovy code samples used in my talk at JUG Milan (June 2013). 
+Groovy code samples used in my talk about Groovy features at JUG Milan (June 2013). 
